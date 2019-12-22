@@ -9,7 +9,9 @@ There's several different ways one can approach mechanics. Analytical mechanics 
 
 It all begins with Hamilton's principle of least action, one of the most fundamental concepts in physics. If at time $t_1$ the system is in the configuration $q(t_1) = q_1$ and at time $t_2$ is in the configuration $q(t_2) = q_2$, then Hamilton's principle of least action says that the path taken between $q_1$ and $q_2$ will be the path such that the action $S$ of the system is minimized.
 
-The action of the system is defined as: $$S = \int\limits_{t_1}^{t_2} L(q(t), \dot{q}(t), t)dt$$
+The action of the system is given by:
+
+$$S = \int\limits_{t_1}^{t_2} L(q(t), \dot{q}(t), t)dt$$
 
 Where $$L = T - V$$ with $T$ and $V$ being the kinetic and potential energies of the system respectively. For simplicity of notation from here on $q(t) = q$ and $\dot{q}(t) = \dot{q}$.
 
