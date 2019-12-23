@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laurent Series"
-date:   2018-03-03 00:00:00
+date:   2018-03-03 12:00:00
 categories: math
 ---
 

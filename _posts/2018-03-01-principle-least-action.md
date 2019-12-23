@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Principle of Least Action"
-date:   2018-03-01 00:00:00
+date:   2018-03-01 12:00:00
 categories: physics
 ---
 

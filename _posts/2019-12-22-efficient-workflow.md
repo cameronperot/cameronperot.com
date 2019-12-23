@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "An Efficient Workflow"
-date:   2019-12-22 00:00:00
-categories: linux
+date:   2019-12-22 12:00:00
+categories: programming
 ---
 
 One of the most important things you can do to be more productive is to make using your environment as efficient as possible.

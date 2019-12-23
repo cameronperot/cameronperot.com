@@ -19,7 +19,7 @@ $$H(\{\sigma\}) = -J \sum_{\langle i j \rangle} \sigma_i \sigma_j - h \sum_i \si
 
 Where the sum over $\langle i j \rangle$ is summing over every neighboring spin pair.
 
-However, we will be examining the case where there is no external magnetic field, thus our Hamitonian reduces to:
+However, we will be examining the case where there is no external magnetic field, thus our Hamiltonian reduces to:
 
 $$H(\{\sigma\}) = -J \sum_{\langle i j \rangle} \sigma_i \sigma_j$$
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hamilton's Equations"
-date:   2018-03-02 00:00:00
+date:   2018-03-02 12:00:00
 categories: physics
 ---
 

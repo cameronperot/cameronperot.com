@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Electromagnetic Waves"
-date:   2018-03-04 00:00:00
+date:   2018-03-04 12:00:00
 categories: physics
 ---
 
