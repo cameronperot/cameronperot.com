@@ -7,19 +7,30 @@ permalink: /resources/
 ## Recommended Reads
 
 * Chaos: Making a New Science – James Gleick
+* Genius: The Life and Science of Richard Feynman – James Gleick
 * Ghost in the Wires – Kevin Mitnick
 * Just for Fun – Linus Torvalds
 * Life 3.0: Being Human in the Age of AI – Max Tegmark
 * Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture – David Kushner
 * Fooled by Randomness – Nassim Taleb
 * Our Mathematical Universe – Max Tegmark
+* Permanent Record – Edward Snowden
 * Surely You’re Joking Mr. Feynman – Richard Feynman
 * The Black Hole War – Leonard Susskind
+* The Information: A History, a Theory, a Flood – James Gleick
 * The Pleasure of Finding Things Out – Richard Feynman
-* Thinking Fast and Slow - Daniel Kahneman
+* Thinking Fast and Slow – Daniel Kahneman
 * [Toward an AI Physicist for Unsupervised Learning – Tailin Wu, Max Tegmark](https://arxiv.org/abs/1810.10525)
 * What Do You Care What Other People Think? – Richard Feynman
 
+## Recommended Podcasts
+
+* Artificial Intelligence with Lex Fridman
+* Darknet Diaries
+* Making Sense with Sam Harris
+* On the Metal
+* The Joe Rogan Experience
+* The Portal with Eric Weinstein
 
 ## Physics
 ### Classical and Analytical Mechanics
@@ -66,7 +77,7 @@ permalink: /resources/
 * [MIT 8.04 Quantum Physics I – Allan Adams, Matthew Evans, Barton Zwiebach](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 * [MIT 8.04 Quantum Physics I – Barton Zwiebach](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/)
 * [MIT 8.05 Quantum Physics II – Barton Zwiebach](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/)
-* [MIT 8.05 Quantum Physics II – Barton Zwiebach](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/)
+* [MIT 8.06 Quantum Physics III – Barton Zwiebach](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/)
 * [The Theoretical Minimum: Quantum Mechanics – Leonard Susskind](https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL701CD168D02FF56F)
 
 ### Statistical Physics
@@ -123,7 +134,8 @@ permalink: /resources/
 * [MIT 18.02 Multivariable Calculus – Denis Auroux](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 * [MIT 18.03 Differential Equations – Arthur Mattuck, Haynes Miller](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 * [MIT 18.06 Linear Algebra – Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-* [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+* [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning – Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+* [MIT 18.650 Statistics for Applications – Philippe Rigollet](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
 * [University of Nottingham Mathematical Analysis – Joel Feinstein](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
 
 ## Programming and Data Science
@@ -131,6 +143,7 @@ permalink: /resources/
 
 * Effective Computation in Physics – Scopatz, Huff
 * Elements of Information Theory – Cover, Thomas
+* Machine Learning: A Probabilistic Perspective – Murphy
 
 #### Online Courses and Lecture Series
 
