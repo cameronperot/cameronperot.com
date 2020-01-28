@@ -162,7 +162,7 @@ Below we plot the average energy and heat capacity per spin. We can see that for
 
 ![](/images/2019-12-29-simulating-magnetism-part-1/1d_ising_e_c.png)
 
-## Ising Model in Multiple Dimensions
+## Up Next
 
 In multiple dimension ferromagnetic systems the Ising model becomes far too difficult to solve by analytical methods, thus this is where computational methods come in handy.
 Now that we have an idea of what the Ising model is we can begin our journey into simulating magnetism.
