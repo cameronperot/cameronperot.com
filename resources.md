@@ -16,7 +16,9 @@ permalink: /resources/
 * Our Mathematical Universe – Max Tegmark
 * Permanent Record – Edward Snowden
 * Surely You’re Joking Mr. Feynman – Richard Feynman
+* The Beginning of Infinity: Explanations That Transform the World – David Deutsch
 * The Black Hole War – Leonard Susskind
+* The Fabric of Reality: The Science of Parallel Universes and Its Implications – David Deutsch
 * The Information: A History, a Theory, a Flood – James Gleick
 * The Pleasure of Finding Things Out – Richard Feynman
 * Thinking Fast and Slow – Daniel Kahneman
@@ -29,6 +31,8 @@ permalink: /resources/
 * Darknet Diaries
 * Making Sense with Sam Harris
 * On the Metal
+* Radiolab
+* Sean Caroll's Mindscape
 * The Joe Rogan Experience
 * The Portal with Eric Weinstein
 
@@ -36,12 +40,12 @@ permalink: /resources/
 ### Classical and Analytical Mechanics
 #### Literature
 
-* An Introduction to Mechanics – Klepper, Kolkenow
-* Classical Mechanics – Goldstein, Poole, Safko
-* Classical Mechanics – Kibble, Berkshire
-* Course of Theoretical Physics Volume 1: Mechanics – Landau, Lifshitz
-* Feynman Lectures on Physics Volume 1 – Feynman
-* University Physics – Young, Freedman
+* An Introduction to Mechanics – Daniel Kleppner, Robert Kolenkow
+* Classical Mechanics – Herbert Goldstein, Charles Poole, John Safko
+* Classical Mechanics – Tom Kibble, Frank Berkshire
+* Course of Theoretical Physics Volume 1: Mechanics – Lev Landau, Evgeny Lifshitz
+* Feynman Lectures on Physics Volume 1 – Richard Feynman
+* University Physics – Hugh Young, Roger Freedman
 
 #### Online Courses and Lecture Series
 
@@ -52,11 +56,11 @@ permalink: /resources/
 ### Electromagnetism
 #### Literature
 
-* Classical Electrodynamics – Jackson
-* Feynman Lectures on Physics Volume II – Feynman
-* Introduction to Electrodynamics – Griffiths
+* Classical Electrodynamics – John David Jackson
+* Feynman Lectures on Physics Volume II – Richard Feynman
+* Introduction to Electrodynamics – David J. Griffiths
 * [Theory of Electromagnetic Fields – Andrzej Wolski](https://arxiv.org/abs/1111.4354)
-* University Physics – Young, Freedman
+* University Physics – Hugh Young, Roger Freedman
 
 #### Online Courses and Lecture Series
 
@@ -66,10 +70,10 @@ permalink: /resources/
 ### Quantum Physics
 #### Literature
 
-* Feynman Lectures on Physics Volume III – Feynman
-* Introduction to Quantum Mechanics – Griffiths
-* Principles of Quantum Mechanics – Shankar
-* Quantum Mechanics – Messiah
+* Feynman Lectures on Physics Volume III – Richard Feynman
+* Introduction to Quantum Mechanics – David J. Griffiths
+* Principles of Quantum Mechanics – Ramamurti Shankar
+* Quantum Mechanics – Albert Messiah
 
 #### Online Courses and Lecture Series
 
@@ -83,11 +87,11 @@ permalink: /resources/
 ### Statistical Physics
 #### Literature
 
-* Fundamentals of Statistical and Thermal Physics – Reif
-* Statistical Mechanics – Huang
-* Statistical Physics of Particles – Kardar
-* Statistical Mechanics – Pathria
-* Thermodynamics and Statistical Mechanics – Greiner
+* Fundamentals of Statistical and Thermal Physics – Frederick Reif
+* Statistical Mechanics – Kerson Huang
+* Statistical Physics of Particles – Mehran Kardar
+* Statistical Mechanics – R. K. Pathria, Paul Beale
+* Thermodynamics and Statistical Mechanics – Walter Greiner, Ludwig Neise, Horst Stöcker
 
 #### Online Courses and Lecture Series
 
@@ -110,19 +114,19 @@ permalink: /resources/
 ## Mathematics
 #### Literature
 
-* A First Course in Probability – Ross
-* Calculus – Stewart
-* Complex Analysis – Ahlfors
-* Differential Equations, Dynamical Systems, and an Introduction to Chaos – Hirsch, Smale, Devaney
-* Differential Equations with Historical Applications – Simmons
-* Fourier Transform for Pedestrians – Butz
-* Inside Interesting Integrals – Nahin
-* Introduction to Smooth Manifold – Lee
-* Introduction to Functional Analysis – Kreyszig
-* Linear Algebra Done Right – Axler
-* Mathematical Methods for Physics and Engineering – Riley, Hobson, Bence
-* Principles of Mathematical Analysis – Rudin
-* Probability Theory: The Logic of Science – Jaynes
+* A First Course in Probability – Sheldon Ross
+* Calculus – James Stewart
+* Complex Analysis – Lars Ahlfors
+* Differential Equations, Dynamical Systems, and an Introduction to Chaos – Morris Hirsch, Stephen Smale, Robert L. Devaney
+* Differential Equations with Historical Applications – George Simmons
+* Fourier Transform for Pedestrians – Tilman Butz
+* Inside Interesting Integrals – Paul Nahin
+* Introduction to Smooth Manifold – John Lee
+* Introduction to Functional Analysis – Erwin Kreyszig
+* Linear Algebra Done Right – Sheldon Axler
+* Mathematical Methods for Physics and Engineering – Ken Riley, Michael Hobson, Stephen Bence
+* Principles of Mathematical Analysis – Walter Rudin
+* Probability Theory: The Logic of Science – E. T. Jaynes
 
 #### Online Courses and Lecture Series
 
@@ -138,21 +142,24 @@ permalink: /resources/
 * [MIT 18.650 Statistics for Applications – Philippe Rigollet](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
 * [University of Nottingham Mathematical Analysis – Joel Feinstein](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
 
-## Programming and Data Science
+## Computer Science, Data Science, and Machine Learning
 #### Literature
 
-* Effective Computation in Physics – Scopatz, Huff
-* Elements of Information Theory – Cover, Thomas
-* Machine Learning: A Probabilistic Perspective – Murphy
+* Clean Code – Robert Martin
+* Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* Effective Computation in Physics – Anthony Scopatz, Kathryn Huff
+* Elements of Information Theory – Thomas Cover, Joy Thomas
+* Machine Learning: A Probabilistic Perspective – Kevin P. Murphy
 
 #### Online Courses and Lecture Series
 
-* [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
 * [Deep Learning Specialization – Andrew Ng](https://www.coursera.org/specializations/deep-learning?)
-* [Intro to Computer Science – Dave Evans](https://eu.udacity.com/course/intro-to-computer-science--cs101)
+* [fast.ai – Jeremy Howard](https://www.fast.ai/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [Machine Learning – Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning for Physicists – Florian Marquardt](https://machine-learning-for-physicists.org/)
 * [MIT 6.001 Introduction to Computer Science and Programming in Python – Ana Bell, Eric Grimson, John Guttag](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [MIT 6.S099 Artificial General Intelligence – Lex Fridman](https://agi.mit.edu/)
+* [MIT 6.S191 Introduction to Deep Learning – Alexander Amini, Ava Soleimany](http://introtodeeplearning.com/)
 * [SciPy 2019](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) (great for learning about libraries and new features)
 * [JuliaCon 2019](https://www.youtube.com/watch?v=mSgXWpvQEHE&list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H) (great for learning about libraries and new features)
