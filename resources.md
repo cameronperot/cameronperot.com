@@ -6,6 +6,8 @@ permalink: /resources/
 
 ## Recommended Reads
 
+* Antifragile: Things That Gain From Disorder – Nassim Taleb
+* The Black Swan: The Impact of the Highly Improbable – Nassim Taleb
 * Chaos: Making a New Science – James Gleick
 * Genius: The Life and Science of Richard Feynman – James Gleick
 * Ghost in the Wires – Kevin Mitnick
