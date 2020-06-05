@@ -47,6 +47,7 @@ julia> model.observable.statistics[:e]
 
 As a side note, these simulations use a seeded random number generator (seed value can be set with a kwarg to `Ising`), so these results are easy to replicate.
 So far we've only covered a small portion of the package's functionality, and we will cover more in future posts, but if you are interested in knowing more I encourage you to [checkout the project on GitHub](https://github.com/cameronperot/MagSim.jl/).
+The code used to generate the data and plots in this post can be found [here](/code/2020-02-29-simulating-magnetism-part-3.jl).
 
 ### Metropolis Algorithm Implementation
 Below is an annotated version of the `metropolis!` function from MagSim explaining the code, and some tips and optimizations.
@@ -58,35 +59,27 @@ function metropolis!(model::Ising)
 	# we do not take observable measurements
 	t₀   = floor(Int, model.params.cutoff * model.params.n_sweeps)
 	# Since there are only several possible values ΔE can take on we pre-store these
-	ΔEs  = [-8, -4, 0, 4, 8]
+	ΔE  = [-8, -4, 0, 4, 8]
 	# To save time we precompute the exponential values we will use
-	exps = exp(-model.params.β) .^ ΔEs
+	P = exp(-model.params.β) .^ ΔE
 
 	# Loop n_sweeps over the lattice
 	for t in 1:model.params.n_sweeps
 		# Loop over each spin in the lattice sequentially along the columns
 		for j in 1:model.params.L, i in 1:model.params.L
-			# Convert ΔE to an index to use with ΔEs and exps
+			# Convert ΔE to an index to use with ΔE and P
 			k = Int(model.σ[i, j] * sum_of_neighbors(model, i, j) / 2 + 3)
 
-			# Check whether or not to flip the spin
-			if ΔEs[k] <= 0 || rand(model.rng) < exps[k]
-				# Flip the spin
-				model.σ[i, j] *= -1
-				# Update the current energy
-				model.observables.E_current += ΔEs[k]
-				# Update the current magnetization
-				model.observables.M_current += 2 * model.σ[i, j]
-			end
+			# Check whether or not to flip the spin, and flip it if so
+			(ΔE[k] <= 0 || rand(model.rng) < P[k]) && (model.σ[i, j] *= -1)
 		end
 
 		# If the system is thermalized, then save the observables
-		t > t₀ && update_observables!(model, t)
+		t > t₀ && update_observables!(model)
 	end
 
 	# Compute the final observables values, e.g. average energy
 	compute_observables_statistics!(model)
-	return model
 end
 ```
 
