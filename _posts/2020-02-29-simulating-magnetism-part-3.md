@@ -41,7 +41,7 @@ This dictionary contains a lot of information about the system (which can be acc
 For example, to get the average energy value of the system:
 
 ```julia
-julia> model.observable.statistics[:e]
+julia> model.observables.statistics[:e]
 -1.435243701171875
 ```
 

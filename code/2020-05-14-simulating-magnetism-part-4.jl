@@ -5,30 +5,34 @@ using DataFrames
 using CSV
 using LaTeXStrings
 
+
 # %%
 
-βs = range(1e-3, stop = 1, length = 200);
+
+βs = range(1e-3, stop = 1, length = 201)
 Ls = [4, 8, 16, 32, 64];
-prefix = "2020-02-29-simulating-magnetism-part-3";
+prefix = "2020-5-14-simulating-magnetism-part-4";
 
-@time sims = simulate_Ising_parallel(metropolis!, Ls, βs);
+q = 2
+@time sims = simulate_Potts_parallel(q, metropolis!, Ls, βs);
 df = sim_dict_to_df(sims);
-CSV.write(prefix * ".csv", df);
+CSV.write(prefix * "_q=$(q).csv", df);
+
 
 # %%
 
-function plot_data(df::DataFrame)
+
+function plot_data(df, Os, y_limits, y_ticks)
     plots = Dict()
-    Os = [:e, :c, :m, :χ]
-    labels = [L"e", L"c", L"|m|", L"\chi"]
+    labels = latexstring.(Os)
     Ls = unique(df.L)
 
     for (i, O) in enumerate(Os)
-        O ∈ [:e, :m] ? legend_bool = true : legend_bool = false
+        O ∈ [:e] ? legend_bool = true : legend_bool = false
         p = plot(
             dpi = 200,
             xaxis = (latexstring("\\beta")),
-            yaxis = (labels[i]),
+            yaxis = (labels[i], y_limits[i], y_ticks[i]),
             legend = legend_bool,
         )
 
@@ -52,9 +56,11 @@ function plot_data(df::DataFrame)
     return plots
 end
 
+Os = [:e, :c]
+y_limits = [(-2.1, -0.9), (-0.1, 2.6)]
+y_ticks = [-2:0.2:-1, 0:0.5:2.5]
 
-plots = plot_data(df);
+plots = plot_data(df, Os, y_limits, y_ticks);
 plot_e_c = plot(plots[:e], plots[:c], layout = (2, 1), size = (600, 500));
-savefig(plot_e_c, "../images/" * prefix * "/ising_metropolis_e_c.png")
-plot_m_χ = plot(plots[:m], plots[:χ], layout = (2, 1), size = (600, 500));
-savefig(plot_m_χ, "../images/" * prefix * "/ising_metropolis_m_chi.png")
+plot_e_c
+savefig(plot_e_c, "../images/" * prefix * "/potts_2_metropolis_e_c.png")
