@@ -89,9 +89,9 @@ permalink: /resources/
 * [MIT 8.370.1x Quantum Information Science I, Part 1 - Isaac Chuang, Peter Shor](https://www.edx.org/course/quantum-information-science-i-part-1)
 * [MIT 8.370.2x Quantum Information Science I, Part 2 - Isaac Chuang, Peter Shor](https://www.edx.org/course/quantum-information-science-i-part-2)
 * [MIT 8.370.3x Quantum Information Science I, Part 3 - Isaac Chuang, Peter Shor](https://www.edx.org/course/quantum-information-science-i-part-3)
-* [MIT 8.371.1x Quantum Information Science II, Part 1 - Quantum states, noise and error correction](https://www.edx.org/course/quantum-information-science-ii-quantum-states-nois)
-* [MIT 8.371.2x Quantum Information Science II, Part 2 - Efficient Quantum Computing - fault tolerance and complexity](https://www.edx.org/course/quantum-information-science-ii-efficient-quantum-c)
-* [MIT 8.371.3x Quantum Information Science II, Part 3 - Advanced quantum algorithms and information theory](https://www.edx.org/course/quantum-information-science-ii-advanced-quantum-al)
+* [MIT 8.371.1x Quantum Information Science II, Part 1 - Isaac Chuang, Aram Harrow](https://www.edx.org/course/quantum-information-science-ii-quantum-states-nois)
+* [MIT 8.371.2x Quantum Information Science II, Part 2 - Isaac Chuang, Aram Harrow](https://www.edx.org/course/quantum-information-science-ii-efficient-quantum-c)
+* [MIT 8.371.3x Quantum Information Science II, Part 3 - Isaac Chuang, Aram Harrow](https://www.edx.org/course/quantum-information-science-ii-advanced-quantum-al)
 * [The Theoretical Minimum: Quantum Mechanics - Leonard Susskind](https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL701CD168D02FF56F)
 
 ### Statistical Physics
