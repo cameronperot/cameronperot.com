@@ -27,17 +27,6 @@ permalink: /resources/
 * [Toward an AI Physicist for Unsupervised Learning - Tailin Wu, Max Tegmark](https://arxiv.org/abs/1810.10525)
 * What Do You Care What Other People Think? - Richard Feynman
 
-## Recommended Podcasts
-
-* Artificial Intelligence with Lex Fridman
-* Darknet Diaries
-* Making Sense with Sam Harris
-* On the Metal
-* Radiolab
-* Sean Caroll's Mindscape
-* The Joe Rogan Experience
-* The Portal with Eric Weinstein
-
 ## Physics
 ### Classical and Analytical Mechanics
 #### Literature
