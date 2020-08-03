@@ -91,7 +91,7 @@ end
 We take a look at the case where $q = 2$ so that we can compare our results to the Ising model.
 In the plot below we have the energy and heat capacity, where we can see that the overall curves exhibit similar behavior to the Ising model except shifted to the right where the critical point is now $\beta_{c, \text{Potts}} = 2 \beta_{c, \text{Ising}} = \ln(1 + \sqrt{2}) \approx 0.88$.
 
-![](/images/2020-5-14-simulating-magnetism-part-4/potts_2_metropolis_e_c.png)
+![](/images/2020-05-14-simulating-magnetism-part-4/potts_2_metropolis_e_c.png)
 
 We'll keep this post short due to the fact that we have a more interesting model to study in the next post.
 
