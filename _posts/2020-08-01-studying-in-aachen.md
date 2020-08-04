@@ -10,6 +10,7 @@ RWTH is Germany's largest technical university located in Aachen, North Rhine-We
 
 It's an amazing place to study due to the abundance of parks and nature nearby, and I often find myself sitting in the park or in the forest getting lost in what I'm reading while enjoying the fresh air and listening to the birds chirp.
 There's tons of places nearby to go hiking, and the terrain is quite hilly which makes for some amazing views.
+Pretty much everything can be reached on foot/bike without ever needing a car which makes it easy to stay physically active and healthy.
 
 ![](/images/2020-08-01-studying-in-aachen/Aachen_01.jpg)
 
@@ -20,6 +21,8 @@ There's tons of places nearby to go hiking, and the terrain is quite hilly which
 ![](/images/2020-08-01-studying-in-aachen/Aachen_04.jpg)
 
 ![](/images/2020-08-01-studying-in-aachen/Aachen_05.jpg)
+
+![](/images/2020-08-01-studying-in-aachen/Aachen_06.jpg)
 
 As a student at RWTH my semester fee (approx. 300€) includes a train pass that allows me to travel throughout NRW for free; I think this is just awesome since there's a lot of places worth visiting in the region.
 My favorite cities to visit are ones on the Rhine because they have a ton of places to sit along the river where you can relax, have a snack, and watch the boats go by.
@@ -54,5 +57,5 @@ Maastricht
 
 ![](/images/2020-08-01-studying-in-aachen/Maastricht_02.jpg)
 
-There's also a ton more places that I plan to visit such as the Eifel national park and some of the smaller dorfs (towns) nearby, so there's a good chance I'll write a follow up post related to that.
-Overall I've had an absolutely amazing experience studying so far at RWTH, and I hope this post gives a glimpse into what it's like!
+There's also a ton more places that I plan to visit such as Eifel national park and some of the smaller dorfs (towns) nearby, so there's a good chance I'll write a follow up post related to that.
+Overall I've had an absolutely amazing experience studying at RWTH in Aachen so far, and I hope this post gives a glimpse into what it's like!
