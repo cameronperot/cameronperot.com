@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a math/physics/computer nerd and my main drive is curiosity.
 My academic background is in finance and physics and I've worked professionally as an economics analyst, a data scientist, and a software engineer.
-I get a lot of enjoyment from figuring out answers to interesting problems, especially when they involve computations.
+I get a lot of enjoyment from figuring out solutions to interesting problems, especially when they involve computations.
 Computers have always been a hobby of mine and I like all aspects from hardware to software.
 
 Physics and mathematics are among my greatest passions, especially the field of computational physics, hence my blog series on simulating magnetism.
