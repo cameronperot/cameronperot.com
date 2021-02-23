@@ -62,10 +62,11 @@ permalink: /resources/
 #### Literature
 
 * Feynman Lectures on Physics Volume III - Richard Feynman
+* [From Classical to Quantum Shannon Theory - Mark M. Wilde](https://arxiv.org/abs/1106.1445)
 * Introduction to Quantum Mechanics - David J. Griffiths
 * Principles of Quantum Mechanics - Ramamurti Shankar
 * Quantum Mechanics - Albert Messiah
-* Quantum Computing and Quantum Information Science - Michael Nielsen, Isaac Chuang
+* Quantum Computation and Quantum Information - Michael Nielsen, Isaac Chuang
 * [Quantum Computation Lecture Notes - John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/)
 
 #### Online Courses and Lecture Series
