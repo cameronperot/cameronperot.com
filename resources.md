@@ -18,9 +18,7 @@ permalink: /resources/
 * Our Mathematical Universe - Max Tegmark
 * Permanent Record - Edward Snowden
 * Surely You’re Joking Mr. Feynman - Richard Feynman
-* The Beginning of Infinity: Explanations That Transform the World - David Deutsch
 * The Black Hole War - Leonard Susskind
-* The Fabric of Reality: The Science of Parallel Universes and Its Implications - David Deutsch
 * The Information: A History, a Theory, a Flood - James Gleick
 * The Pleasure of Finding Things Out - Richard Feynman
 * Thinking Fast and Slow - Daniel Kahneman
@@ -117,11 +115,12 @@ permalink: /resources/
 * A First Course in Probability - Sheldon Ross
 * Calculus - James Stewart
 * Complex Analysis - Lars Ahlfors
+* Convex Optimization - Stephen Boyd, Lieven Vandenberghe
 * Differential Equations, Dynamical Systems, and an Introduction to Chaos - Morris Hirsch, Stephen Smale, Robert L. Devaney
 * Differential Equations with Historical Applications - George Simmons
 * Fourier Transform for Pedestrians - Tilman Butz
 * Inside Interesting Integrals - Paul Nahin
-* Introduction to Smooth Manifold - John Lee
+* Introduction to Smooth Manifolds - John Lee
 * Introduction to Functional Analysis - Erwin Kreyszig
 * Linear Algebra Done Right - Sheldon Axler
 * Mathematical Methods for Physics and Engineering - Ken Riley, Michael Hobson, Stephen Bence
@@ -149,7 +148,10 @@ permalink: /resources/
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * Effective Computation in Physics - Anthony Scopatz, Kathryn Huff
 * Elements of Information Theory - Thomas Cover, Joy Thomas
+* Foundations of Data Science - John Hopcroft, Ravindran Kannan
 * Machine Learning: A Probabilistic Perspective - Kevin P. Murphy
+* Pattern Recognition and Machine Learning - Christopher M. Bishop
+* Practical Vim: Edit Text at the Speed of Thought - Drew Neil
 
 #### Online Courses and Lecture Series
 
@@ -159,6 +161,7 @@ permalink: /resources/
 * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning for Physicists - Florian Marquardt](https://machine-learning-for-physicists.org/)
 * [MIT 6.001 Introduction to Computer Science and Programming in Python - Ana Bell, Eric Grimson, John Guttag](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [MIT 6.002 Introduction to Computational Thinking and Data Science - Ana Bell, Eric Grimson, John Guttag](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * [MIT 6.046J Introduction to Algorithms - Charles Leiserson, Erik Demaine](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 * [MIT 6.S099 Artificial General Intelligence - Lex Fridman](https://agi.mit.edu/)
 * [MIT 6.S191 Introduction to Deep Learning - Alexander Amini, Ava Soleimany](http://introtodeeplearning.com/)
