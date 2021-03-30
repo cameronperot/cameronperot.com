@@ -5,7 +5,7 @@ date:   2020-08-01 12:00:00
 categories: misc
 ---
 
-In the summer semester of 2020 I began my graduate studies in data science and physics at Rheinisch-Westfälische Technische Hochschule Aachen, a.k.a. RWTH (pronounced err-vey-tey-ha).
+In the summer semester of 2020 I began my graduate studies in data science and physics at Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen.
 RWTH is Germany's largest technical university located in Aachen, North Rhine-Westphalia (NRW), near the Dutch and Belgian borders.
 
 It's an amazing place to study due to the abundance of parks and nature nearby, and I often find myself sitting in the park or in the forest getting lost in what I'm reading while enjoying the fresh air and listening to the birds chirp.
