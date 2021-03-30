@@ -66,6 +66,7 @@ permalink: /resources/
 * Quantum Mechanics - Albert Messiah
 * Quantum Computation and Quantum Information - Michael Nielsen, Isaac Chuang
 * [Quantum Computation Lecture Notes - John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/)
+* [Quantum Country - Andy Matuschak, Michael Nielsen (a good conceptual introduction)](https://quantum.country/)
 
 #### Online Courses and Lecture Series
 
@@ -152,6 +153,7 @@ permalink: /resources/
 * Machine Learning: A Probabilistic Perspective - Kevin P. Murphy
 * Pattern Recognition and Machine Learning - Christopher M. Bishop
 * Practical Vim: Edit Text at the Speed of Thought - Drew Neil
+* Probabilistic Machine Learning: An Introduction - Kevin P. Murphy
 
 #### Online Courses and Lecture Series
 
