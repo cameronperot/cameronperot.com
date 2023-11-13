@@ -13,7 +13,11 @@ The action of the system is given by:
 
 $$S = \int\limits_{t_1}^{t_2} L(q(t), \dot{q}(t), t)dt$$
 
-Where $$L = T - V$$ with $T$ and $V$ being the kinetic and potential energies of the system respectively. For simplicity of notation from here on $q(t) = q$ and $\dot{q}(t) = \dot{q}$.
+where
+
+$$L = T - V$$
+
+with $T$ and $V$ being the kinetic and potential energies of the system, respectively. For simplicity of notation from here on $q(t) = q$ and $\dot{q}(t) = \dot{q}$.
 
 In order for the action to be minimized, we require that small perturbations to the path leave the action unchanged. The best way to think about it is that when we have extrema (minima/maxima) the derivative of a function is equal to zero, thus a small "step" in any direction will not change the value of the function. Applying that concept to this we can think of the entire path being the minimum if for each point along the path we can take a small step in any direction without affecting the action.
 
