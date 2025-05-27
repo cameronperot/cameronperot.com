@@ -15,7 +15,7 @@ permalink: /resources/
 - [Mathematics](#mathematics)
 - [Computer/Data Science and Machine Learning](#cdsml)
 - [Finance](#finance)
-    - [Decentralized Finance (DeFi)](#defi)
+- [Crypto and Decentralized Finance (DeFi)](/resources/crypto-and-defi/)
 
 ## <a name="books"></a>Recommended Reads
 
@@ -225,20 +225,4 @@ permalink: /resources/
 * [MITx Foundations of Modern Finance II - Leonid Kogan, Jiang Wang, Egor Matveyev](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-foundations-of-modern-finance-ii)
 * [MITx Mathematical Methods for Quantitative Finance - Paul Mende, Egor Matveyev](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-mathematical-methods-for-quantitative-finance)
 
-### <a name="defi"></a>Decentralized Finance (DeFi)
-#### Links
-* [AAVE](https://aave.com/)
-* [Compound](https://compound.finance/)
-* [Curve](https://curve.fi/)
-* [Decrypt U](https://decrypt.co/university/explainers)
-* [DeFi Pulse](https://defipulse.com/)
-* [dYdX](https://dydx.exchange/)
-* [Ethereum - Decentralized Finance](https://ethereum.org/en/defi/)
-* [Finematics](https://www.youtube.com/c/Finematics/videos)
-* [GMX](https://gmx.io/)
-* [MakerDAO](https://makerdao.com/en/)
-* [Nexus Mutual](https://nexusmutual.io/)
-* [rekt](https://rekt.news/)
-* [The Defiant](https://thedefiant.io/)
-* [Uniswap](https://uniswap.org/)
-* [Yearn Finance](https://yearn.fi/)
+## [Crypto and Decentralized Finance (DeFi)](/resources/crypto-and-defi/)
